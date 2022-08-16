@@ -1,0 +1,28 @@
+#teste {
+    width: 90%;
+    height: 700px;
+    background-color:blue;
+}
+@media (max-width: 480px) {#teste{
+    background-color: yellow;
+}
+h1 {font-size: 48px;}
+}
+@media (min-width: 481px) {#teste{
+    background-color: rgba(255, 6, 6, 0.747);
+}
+h1 {font-size: 12px;}
+}
+@media (min-width: 681px) and (max-width: 980px) {
+    #teste {
+        background-color: greenyellow;
+    }
+    h1 {
+        font-size: 60px;
+    }
+}
+@media (min-width: 981px) {#teste{
+    background-color: rgba(3, 95, 0, 0.747);
+}
+h1 {font-size: 90px;}
+}
