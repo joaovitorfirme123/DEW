@@ -1,0 +1,57 @@
+#tudo{
+    width: 1205px;
+    text-align: center;
+    border: solid black 5px;
+    float: left;
+    margin-left: 150px;
+}
+header{
+    width: 49.8%;
+    height: 200px;
+    background-color: blue;
+    float: left;
+    margin-right: 4px;
+    margin-bottom: 10px;
+    
+}
+nav{
+    width: 49.85%;
+    height: 200px;
+    background-color: red;
+    float: left;
+    
+    
+}
+main{
+    width: 95%;
+    height: 500px;
+    background-color: green;
+    float: left;
+    margin-left: 22px;
+}
+section{
+    width: 31%;
+    height: 500px;
+    margin-left: 10px;
+}
+.sec-1 {
+    background-color: blueviolet;
+    float: left;
+    margin-left: 33px;
+}
+.sec-2 {
+    background-color: brown;
+    float: left;
+}
+.sec-3 {
+    background-color: yellowgreen;
+    float: left;
+}
+footer{
+    width: 91%;
+    height: 200px;
+    background-color: yellow;
+    float: left;
+    margin-left: 48px;
+    margin-top: 10px;
+}
